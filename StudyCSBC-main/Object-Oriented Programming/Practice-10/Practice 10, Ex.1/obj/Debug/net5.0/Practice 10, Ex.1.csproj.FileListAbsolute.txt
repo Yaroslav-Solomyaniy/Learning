@@ -1,0 +1,16 @@
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\Practice 10, Ex.1.exe
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\Practice 10, Ex.1.deps.json
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\Practice 10, Ex.1.runtimeconfig.json
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\Practice 10, Ex.1.runtimeconfig.dev.json
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\Practice 10, Ex.1.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\ref\Practice 10, Ex.1.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\bin\Debug\net5.0\Practice 10, Ex.1.pdb
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.csprojAssemblyReference.cache
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.AssemblyInfoInputs.cache
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.AssemblyInfo.cs
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.csproj.CoreCompileInputs.cache
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\ref\Practice 10, Ex.1.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.pdb
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-10\Practice 10, Ex.1\obj\Debug\net5.0\Practice 10, Ex.1.genruntimeconfig.cache

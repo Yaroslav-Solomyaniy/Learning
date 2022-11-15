@@ -1,0 +1,16 @@
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\AppTwo.exe
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\AppTwo.deps.json
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\AppTwo.runtimeconfig.json
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\AppTwo.runtimeconfig.dev.json
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\AppTwo.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\ref\AppTwo.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\bin\Debug\net5.0\AppTwo.pdb
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.csprojAssemblyReference.cache
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.AssemblyInfoInputs.cache
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.AssemblyInfo.cs
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.csproj.CoreCompileInputs.cache
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\ref\AppTwo.dll
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.pdb
+C:\Users\Facke\Desktop\Програмування\Csharp\Practice-6\Code\2\AppTwo\obj\Debug\net5.0\AppTwo.genruntimeconfig.cache
