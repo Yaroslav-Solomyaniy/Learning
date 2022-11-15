@@ -1,0 +1,272 @@
+.img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.list {
+  color: #2b1105;
+  margin-top: 270px;
+  list-style-type: none;
+  font-size: 22px;
+}
+.list__item {
+  margin-top: 24px;
+}
+.title {
+  margin-top: 200px;
+  color: rgba(252, 249, 247, 1);
+  font-size: 101px;
+  text-align: center;
+  line-height: 70px;
+}
+.subtitle {
+  margin-top: 10px;
+  color: rgba(252, 249, 247, 1);
+  font-size: 24px;
+  text-align: center;
+}
+.story1 {
+  margin-top: 150px;
+  text-align: center;
+  font-size: 56px;
+  margin-top: 103px;
+}
+.story {
+  width: 1007px;
+  margin: 0 auto;
+}
+.story2 {
+  width: 800px;
+  font-size: 18px;
+  margin: 0 auto;
+  margin-top: 64px;
+  margin-bottom: 117px;
+}
+.text {
+  font-size: 18px;
+}
+.img2 {
+  margin-bottom: 120px;
+}
+.about {
+  width: 100%;
+  height: 655px;
+  background: rgba(151, 145, 122, 1);
+}
+.about_title {
+  font-size: 18px;
+  color: rgba(252, 249, 247, 1);
+  text-align: center;
+  padding-top: 96px;
+}
+.subtitle_one {
+  display: inline-block;
+  font-size: 56px;
+  color: rgba(252, 249, 247, 1);
+  margin-right: 32px;
+  line-height: 56px;
+  border-bottom: 1px solid white;
+}
+.subtitle_two {
+  display: inline-block;
+  font-size: 56px;
+  color: rgba(252, 249, 247, 1);
+  opacity: 0.3;
+  line-height: 56px;
+}
+.about_subtitle {
+  text-align: center;
+}
+.person {
+  text-align: center;
+  width: 24%;
+  display: inline-block;
+  color: rgba(252, 249, 247, 1);
+  font-size: 32px;
+  margin-top: 60px;
+}
+.person_name {
+  margin: 0;
+  line-height: 50px;
+}
+.img7 {
+  display: block;
+  text-align: center;
+  margin: 93px auto 38px auto;
+}
+.location_title {
+  text-align: center;
+  color: rgba(198, 117, 77, 1);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.location_subtitle {
+  text-align: center;
+  color: rgba(43, 17, 5, 1);
+  font-size: 56px;
+  font-weight: 400;
+}
+.location_text {
+  width: 800px;
+  text-align: center;
+  padding: 0;
+  margin: 32px auto 20px auto;
+  line-height: 29px;
+  font-size: 18px;
+}
+.location_text_two {
+  width: 800px;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+  line-height: 29px;
+  font-size: 18px;
+}
+.img8 {
+  display: block;
+  text-align: center;
+  margin: 43px auto 38px auto;
+  color: rgba(43, 17, 5, 1);
+  opacity: 0.25;
+}
+.accommodations_title {
+  text-align: center;
+  margin-top: 96px;
+  font-size: 56px;
+  color: rgba(43, 17, 5, 1);
+  font-weight: 400;
+  margin-bottom: 64px;
+}
+.hotels {
+  text-align: center;
+  margin: 0 auto;
+}
+.hotel {
+  width: 33%;
+  display: inline-block;
+}
+.hotel_title {
+  font-weight: 400;
+  font-size: 43px;
+}
+.hotel:last-child {
+  margin-right: 0;
+}
+.hotel_text {
+  width: 384px;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(43, 17, 5, 1);
+  opacity: 0.8;
+}
+.hotel_button {
+  margin: 30px auto 0 auto;
+  display: block;
+  padding: 18px 26px;
+  color: rgba(198, 117, 77, 1);
+  background: transparent;
+  border: 1px solid rgba(198, 117, 77, 1);
+}
+.img9 {
+  margin-top: 120px;
+  height: 100%;
+  width: 100%;
+}
+.itinerary_title {
+  text-align: center;
+  font-weight: 400;
+  font-size: 56px;
+  margin-top: 96px;
+}
+.subtitle_item {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 18px;
+  margin-right: 64px;
+  color: rgba(43, 17, 5, 1);
+  opacity: 0.6;
+}
+.subtitle_item:first-child {
+  opacity: 1;
+  border-bottom: 2px solid rgba(198, 117, 77, 1);
+}
+.subtitle_item:last-child {
+  margin-right: 0;
+}
+.itinerary_subtitle {
+  text-align: center;
+}
+.timeblock {
+  width: 850px;
+  margin: 0 auto;
+}
+.timeblock_time__title {
+  width: 250px;
+  color: rgba(198, 117, 77, 1);
+  font-size: 24px;
+
+}
+.timeblock > table {
+  padding: 0 auto;
+  display: block;
+}
+.timeblock_time__subtitle {
+  font-size: 32px;
+  padding-left: 25px;
+}
+.timeblock_time__text {
+  font-size: 18px;
+  color: rgba(43, 17, 5, 1);
+  font-weight: 400;
+  opacity: 0.7;
+  padding: 32px;
+}
+.marginTop {
+  padding-top: 64px;
+}
+.imgDop {
+  margin-top: 137px;
+}
+.registry_title {
+  text-align: center;
+  font-size: 56px;
+  font-weight: 400;
+  padding-top: 150px;
+  color: rgba(43, 17, 5, 1);
+  opacity: 0.8;
+}
+.registry_text {
+  text-align: left;
+  width: 740px;
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(43, 17, 5, 1);
+  opacity: 0.7;
+  line-height: 160%;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+.img10 {
+    width: 752px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-top: 70px;
+    opacity: 0.5;
+    
+}
+.img11 {
+  text-align: center;
+  display: block;
+    margin: 0 auto;
+    padding-top: 346px;
+    font-weight: 400;
+    font-size: 56px;
+    color: rgba(43, 17, 5, 1);
+    opacity: 0.2;
+}
